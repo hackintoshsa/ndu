@@ -1,4 +1,4 @@
-# Node.js Hello World Sample SSR
+# Node.js Hello World Sample SSR2
 
 This application demonstrates a simple, reusable Node.js web application based on the Express framework.
 
